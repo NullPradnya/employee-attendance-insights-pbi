@@ -37,10 +37,9 @@ Custom DAX calculations were created for:
 ---
 
 ## 📂 Repository Contents  
-├── Attendance.pbix # Power BI dashboard file
-├── Employee_Attendance_Insights_Preview.png # Dashboard preview image
-├── Data/ # Source data files (optional for practice)
-└── README.md # Project documentation
+- `Employee_Attendance_Insights.pbix` → Power BI dashboard file.  
+- `Data/` → Employee attendance raw data for analysis.  
+- `Employee_Attendance_Insights_Preview.png` → Screenshot of the dashboard.
 
 
 ---
